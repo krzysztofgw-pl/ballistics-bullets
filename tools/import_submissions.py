@@ -95,8 +95,15 @@ def dia_id(d):
     return re.sub(r'^0\.', '', f'{d:.4f}'.rstrip('0').rstrip('.'))
 
 
+def strip_maker(name, maker):
+    """'RWS R50' from maker RWS becomes 'R50'; a name that is only the maker stays."""
+    name = name.strip()
+    rest = re.sub(rf'^{re.escape(maker.strip())}\b[\s\-:,]*', '', name, flags=re.IGNORECASE)
+    return rest if rest else name
+
+
 def bullet_from(s):
-    b = {'name': s['name'].strip(), 'diameter_in': num(s['diameter_in']), 'weight_gr': num(s['weight_gr']),
+    b = {'name': strip_maker(s['name'], s['maker']), 'diameter_in': num(s['diameter_in']), 'weight_gr': num(s['weight_gr']),
          'bc': {k: num(v) for k, v in sorted(s['bc'].items())}}
     for k in ('length_in', 'twist_in'):
         if s.get(k) is not None:
