@@ -1,0 +1,18 @@
+{
+  "maker": "RWS",
+  "bullets": [
+    {
+      "id": "rws-rws-r50-22-40",
+      "name": "RWS R50",
+      "diameter_in": 0.22,
+      "weight_gr": 40,
+      "bc": {
+        "g7": 0.25
+      },
+      "source": {
+        "type": "website",
+        "ref": "luska.pl"
+      }
+    }
+  ]
+}
