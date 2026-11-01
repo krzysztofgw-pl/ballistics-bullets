@@ -1,0 +1,780 @@
+{
+  "maker": "Lapua",
+  "bullets": [
+    {
+      "id": "lapua-fmj-224-55",
+      "name": "FMJ",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.235
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-soft-point-224-55",
+      "name": "Soft Point",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.185
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-224-69",
+      "name": "Scenar",
+      "diameter_in": 0.224,
+      "weight_gr": 69,
+      "bc": {
+        "g1": 0.341,
+        "g7": 0.171
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-224-69",
+      "name": "Scenar-L",
+      "diameter_in": 0.224,
+      "weight_gr": 69,
+      "bc": {
+        "g1": 0.341,
+        "g7": 0.171
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-224-77",
+      "name": "Scenar",
+      "diameter_in": 0.224,
+      "weight_gr": 77,
+      "bc": {
+        "g1": 0.386,
+        "g7": 0.193
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-224-77",
+      "name": "Scenar-L",
+      "diameter_in": 0.224,
+      "weight_gr": 77,
+      "bc": {
+        "g1": 0.386,
+        "g7": 0.193
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-open-tip-243-77",
+      "name": "Open Tip",
+      "diameter_in": 0.243,
+      "weight_gr": 77,
+      "bc": {
+        "g1": 0.319
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-naturalis-243-90",
+      "name": "Naturalis",
+      "diameter_in": 0.243,
+      "weight_gr": 90,
+      "bc": {
+        "g1": 0.23
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-243-90",
+      "name": "Scenar",
+      "diameter_in": 0.243,
+      "weight_gr": 90,
+      "bc": {
+        "g1": 0.434,
+        "g7": 0.216
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-243-90",
+      "name": "Scenar-L",
+      "diameter_in": 0.243,
+      "weight_gr": 90,
+      "bc": {
+        "g1": 0.434,
+        "g7": 0.216
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-243-105",
+      "name": "Scenar",
+      "diameter_in": 0.243,
+      "weight_gr": 105,
+      "bc": {
+        "g1": 0.472,
+        "g7": 0.236
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-243-105",
+      "name": "Scenar-L",
+      "diameter_in": 0.243,
+      "weight_gr": 105,
+      "bc": {
+        "g1": 0.472,
+        "g7": 0.236
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-cutting-edge-fmj-264-100",
+      "name": "Cutting Edge FMJ",
+      "diameter_in": 0.264,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.25
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-fmj-264-100",
+      "name": "FMJ",
+      "diameter_in": 0.264,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.25
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-264-100",
+      "name": "Scenar",
+      "diameter_in": 0.264,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.424,
+        "g7": 0.212
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-264-108",
+      "name": "Scenar",
+      "diameter_in": 0.264,
+      "weight_gr": 108,
+      "bc": {
+        "g1": 0.465,
+        "g7": 0.231
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-264-120",
+      "name": "Scenar-L",
+      "diameter_in": 0.264,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.497,
+        "g7": 0.246
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-264-123",
+      "name": "Scenar",
+      "diameter_in": 0.264,
+      "weight_gr": 123,
+      "bc": {
+        "g1": 0.527,
+        "g7": 0.263
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-264-136",
+      "name": "Scenar-L",
+      "diameter_in": 0.264,
+      "weight_gr": 136,
+      "bc": {
+        "g1": 0.545,
+        "g7": 0.274
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-264-139",
+      "name": "Scenar",
+      "diameter_in": 0.264,
+      "weight_gr": 139,
+      "bc": {
+        "g1": 0.578,
+        "g7": 0.29
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-naturalis-264-140",
+      "name": "Naturalis",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.201
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-fmj-264-144",
+      "name": "FMJ",
+      "diameter_in": 0.264,
+      "weight_gr": 144,
+      "bc": {
+        "g1": 0.636
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-mega-264-155",
+      "name": "Mega",
+      "diameter_in": 0.264,
+      "weight_gr": 155,
+      "bc": {
+        "g1": 0.377
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-284-150",
+      "name": "Scenar-L",
+      "diameter_in": 0.284,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.526,
+        "g7": 0.26
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-naturalis-284-156",
+      "name": "Naturalis",
+      "diameter_in": 0.284,
+      "weight_gr": 156,
+      "bc": {
+        "g1": 0.28
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-284-180",
+      "name": "Scenar-L",
+      "diameter_in": 0.284,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.661,
+        "g7": 0.332
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-cutting-edge-ot-308-100",
+      "name": "Cutting Edge OT",
+      "diameter_in": 0.308,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.17
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-fmj-308-123",
+      "name": "FMJ",
+      "diameter_in": 0.308,
+      "weight_gr": 123,
+      "bc": {
+        "g1": 0.27
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-lock-base-308-150",
+      "name": "Lock Base",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.434,
+        "g7": 0.217
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-mega-308-150",
+      "name": "Mega",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.33
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-308-155",
+      "name": "Scenar",
+      "diameter_in": 0.308,
+      "weight_gr": 155,
+      "bc": {
+        "g1": 0.46,
+        "g7": 0.23
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-308-155",
+      "name": "Scenar-L",
+      "diameter_in": 0.308,
+      "weight_gr": 155,
+      "bc": {
+        "g1": 0.46,
+        "g7": 0.23
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-308-167",
+      "name": "Scenar",
+      "diameter_in": 0.308,
+      "weight_gr": 167,
+      "bc": {
+        "g1": 0.446,
+        "g7": 0.223
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-lock-base-308-170",
+      "name": "Lock Base",
+      "diameter_in": 0.308,
+      "weight_gr": 170,
+      "bc": {
+        "g1": 0.498,
+        "g7": 0.249
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-naturalis-308-170",
+      "name": "Naturalis",
+      "diameter_in": 0.308,
+      "weight_gr": 170,
+      "bc": {
+        "g1": 0.354,
+        "g7": 0.177
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-308-175",
+      "name": "Scenar-L",
+      "diameter_in": 0.308,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.49,
+        "g7": 0.247
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-d46-308-185",
+      "name": "D46",
+      "diameter_in": 0.308,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.506,
+        "g7": 0.254
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-mega-308-185",
+      "name": "Mega",
+      "diameter_in": 0.308,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.319
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-308-185",
+      "name": "Scenar",
+      "diameter_in": 0.308,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.482,
+        "g7": 0.242
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-mega-308-200",
+      "name": "Mega",
+      "diameter_in": 0.308,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.344
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-subsonic-308-200",
+      "name": "Subsonic",
+      "diameter_in": 0.308,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.518,
+        "g7": 0.235
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-l-308-220",
+      "name": "Scenar-L",
+      "diameter_in": 0.308,
+      "weight_gr": 220,
+      "bc": {
+        "g1": 0.647,
+        "g7": 0.324
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-d166-31-200",
+      "name": "D166",
+      "diameter_in": 0.31,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.448,
+        "g7": 0.224
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-fmj-311-123",
+      "name": "FMJ",
+      "diameter_in": 0.311,
+      "weight_gr": 123,
+      "bc": {
+        "g1": 0.257
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-naturalis-323-180",
+      "name": "Naturalis",
+      "diameter_in": 0.323,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.357,
+        "g7": 0.179
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-naturalis-338-231",
+      "name": "Naturalis",
+      "diameter_in": 0.338,
+      "weight_gr": 231,
+      "bc": {
+        "g1": 0.373
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-lock-base-338-250",
+      "name": "Lock Base",
+      "diameter_in": 0.338,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.625,
+        "g7": 0.31
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-338-250",
+      "name": "Scenar",
+      "diameter_in": 0.338,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.648,
+        "g7": 0.322
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-scenar-338-300",
+      "name": "Scenar",
+      "diameter_in": 0.338,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.736,
+        "g7": 0.368
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-naturalis-366-250",
+      "name": "Naturalis",
+      "diameter_in": 0.366,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.419,
+        "g7": 0.215
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-mega-366-285",
+      "name": "Mega",
+      "diameter_in": 0.366,
+      "weight_gr": 285,
+      "bc": {
+        "g1": 0.339
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-bullex-n-5-750",
+      "name": "Bullex-N",
+      "diameter_in": 0.5,
+      "weight_gr": 750,
+      "bc": {
+        "g1": 0.96
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "lapua-bullex-n-5-800",
+      "name": "Bullex-N",
+      "diameter_in": 0.5,
+      "weight_gr": 800,
+      "bc": {
+        "g1": 0.98
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1153 @@
+{
+  "maker": "Speer",
+  "bullets": [
+    {
+      "id": "speer-tnt-204-39",
+      "name": "TNT",
+      "diameter_in": 0.204,
+      "weight_gr": 39,
+      "bc": {
+        "g1": 0.202
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-tnt-green-224-30",
+      "name": "TNT Green",
+      "diameter_in": 0.224,
+      "weight_gr": 30,
+      "bc": {
+        "g1": 0.091
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-jacketed-hollow-point-rifle-224-33",
+      "name": "Jacketed Hollow Point Rifle",
+      "diameter_in": 0.224,
+      "weight_gr": 33,
+      "bc": {
+        "g1": 0.079
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varmint-soft-point-224-40",
+      "name": "Varmint Soft Point",
+      "diameter_in": 0.224,
+      "weight_gr": 40,
+      "bc": {
+        "g1": 0.144
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-tnt-green-224-43",
+      "name": "TNT Green",
+      "diameter_in": 0.224,
+      "weight_gr": 43,
+      "bc": {
+        "g1": 0.15
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varmint-soft-point-224-45",
+      "name": "Varmint Soft Point",
+      "diameter_in": 0.224,
+      "weight_gr": 45,
+      "bc": {
+        "g1": 0.167
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varmint-soft-point-224-46",
+      "name": "Varmint Soft Point",
+      "diameter_in": 0.224,
+      "weight_gr": 46,
+      "bc": {
+        "g1": 0.094
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-tnt-224-50",
+      "name": "TNT",
+      "diameter_in": 0.224,
+      "weight_gr": 50,
+      "bc": {
+        "g1": 0.228
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varmint-soft-point-224-50",
+      "name": "Varmint Soft Point",
+      "diameter_in": 0.224,
+      "weight_gr": 50,
+      "bc": {
+        "g1": 0.231
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-target-match-rifle-224-52",
+      "name": "Target Match Rifle",
+      "diameter_in": 0.224,
+      "weight_gr": 52,
+      "bc": {
+        "g1": 0.253
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varminter-hollow-point-224-52",
+      "name": "Varminter Hollow Point",
+      "diameter_in": 0.224,
+      "weight_gr": 52,
+      "bc": {
+        "g1": 0.168
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varmint-soft-point-224-55",
+      "name": "Varmint Soft Point",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.212
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varmint-soft-point-224-70",
+      "name": "Varmint Soft Point",
+      "diameter_in": 0.224,
+      "weight_gr": 70,
+      "bc": {
+        "g1": 0.214
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-tnt-243-70",
+      "name": "TNT",
+      "diameter_in": 0.243,
+      "weight_gr": 70,
+      "bc": {
+        "g1": 0.282
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varminter-hollow-point-243-75",
+      "name": "Varminter Hollow Point",
+      "diameter_in": 0.243,
+      "weight_gr": 75,
+      "bc": {
+        "g1": 0.234
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-243-85",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.243,
+      "weight_gr": 85,
+      "bc": {
+        "g1": 0.38
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-243-90",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.243,
+      "weight_gr": 90,
+      "bc": {
+        "g1": 0.365
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-243-100",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.243,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.446
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-243-100",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.243,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.351
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-257-87",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.257,
+      "weight_gr": 87,
+      "bc": {
+        "g1": 0.3
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-tnt-257-87",
+      "name": "TNT",
+      "diameter_in": 0.257,
+      "weight_gr": 87,
+      "bc": {
+        "g1": 0.31
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-257-100",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.257,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.393
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-257-100",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.257,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.369
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varminter-hollow-point-257-100",
+      "name": "Varminter Hollow Point",
+      "diameter_in": 0.257,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.255
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-257-120",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.257,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.48
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-257-120",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.257,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.328
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-tnt-264-90",
+      "name": "TNT",
+      "diameter_in": 0.264,
+      "weight_gr": 90,
+      "bc": {
+        "g1": 0.281
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-264-120",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.264,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.433
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-264-140",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.405
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-tnt-277-90",
+      "name": "TNT",
+      "diameter_in": 0.277,
+      "weight_gr": 90,
+      "bc": {
+        "g1": 0.275
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varminter-hollow-point-277-100",
+      "name": "Varminter Hollow Point",
+      "diameter_in": 0.277,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.225
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-277-130",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.412
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-277-130",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.345
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-277-130",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.408
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-277-150",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.277,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.496
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-277-150",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.277,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.385
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-277-150",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.277,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.455
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-tnt-284-110",
+      "name": "TNT",
+      "diameter_in": 0.284,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.338
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-284-130",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.284,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.424
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-284-130",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.284,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.394
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-284-145",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.284,
+      "weight_gr": 145,
+      "bc": {
+        "g1": 0.472
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-284-145",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.284,
+      "weight_gr": 145,
+      "bc": {
+        "g1": 0.327
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-284-145",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.284,
+      "weight_gr": 145,
+      "bc": {
+        "g1": 0.457
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-284-160",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.284,
+      "weight_gr": 160,
+      "bc": {
+        "g1": 0.519
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-284-160",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.284,
+      "weight_gr": 160,
+      "bc": {
+        "g1": 0.389
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-284-160",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.284,
+      "weight_gr": 160,
+      "bc": {
+        "g1": 0.504
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-284-175",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.284,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.465
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-tmj-rifle-308-110",
+      "name": "TMJ Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.179
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-tnt-308-125",
+      "name": "TNT",
+      "diameter_in": 0.308,
+      "weight_gr": 125,
+      "bc": {
+        "g1": 0.341
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-308-130",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.248
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-varminter-hollow-point-308-130",
+      "name": "Varminter Hollow Point",
+      "diameter_in": 0.308,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.263
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-308-150",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.417
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-308-150",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-308-150",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.389
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-308-165",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 165,
+      "bc": {
+        "g1": 0.52
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-308-165",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 165,
+      "bc": {
+        "g1": 0.393
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-308-165",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 165,
+      "bc": {
+        "g1": 0.433
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-target-match-rifle-308-168",
+      "name": "Target Match Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.534
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-308-170",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 170,
+      "bc": {
+        "g1": 0.298
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-308-180",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.54
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-308-180",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.374
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-308-180",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.441
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-308-200",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.308,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.556
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-311-150",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.311,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.328
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-311-180",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.311,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.328
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-321-170",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.321,
+      "weight_gr": 170,
+      "bc": {
+        "g1": 0.297
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-323-150",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.323,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.369
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-323-170",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.323,
+      "weight_gr": 170,
+      "bc": {
+        "g1": 0.354
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-323-200",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.323,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.411
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-338-200",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.338,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.448
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-338-225",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.338,
+      "weight_gr": 225,
+      "bc": {
+        "g1": 0.484
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-338-250",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.338,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.431
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-358-180",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.358,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.245
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-358-220",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.358,
+      "weight_gr": 220,
+      "bc": {
+        "g1": 0.286
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-358-250",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.358,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.422
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-366-270",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.366,
+      "weight_gr": 270,
+      "bc": {
+        "g1": 0.361
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-375-235",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.375,
+      "weight_gr": 235,
+      "bc": {
+        "g1": 0.317
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-boat-tail-rifle-375-270",
+      "name": "Boat-Tail Rifle",
+      "diameter_in": 0.375,
+      "weight_gr": 270,
+      "bc": {
+        "g1": 0.429
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-grand-slam-rifle-375-285",
+      "name": "Grand Slam Rifle",
+      "diameter_in": 0.375,
+      "weight_gr": 285,
+      "bc": {
+        "g1": 0.354
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-416-350",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.416,
+      "weight_gr": 350,
+      "bc": {
+        "g1": 0.332
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-jacketed-hollow-point-rifle-458-300",
+      "name": "Jacketed Hollow Point Rifle",
+      "diameter_in": 0.458,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.206
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "speer-hot-cor-rifle-458-350",
+      "name": "Hot-Cor Rifle",
+      "diameter_in": 0.458,
+      "weight_gr": 350,
+      "bc": {
+        "g1": 0.232
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "maker": "Sierra",
+  "bullets": [
+    {
+      "id": "sierra-matchking-hpbt-224-77",
+      "name": "MatchKing HPBT",
+      "diameter_in": 0.224,
+      "weight_gr": 77,
+      "bc": {
+        "g1": 0.372
+      },
+      "length_in": 0.995,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "sierra-matchking-hpbt-308-168",
+      "name": "MatchKing HPBT",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.462,
+        "g7": 0.218
+      },
+      "length_in": 1.215,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "sierra-matchking-hpbt-308-175",
+      "name": "MatchKing HPBT",
+      "diameter_in": 0.308,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.505,
+        "g7": 0.243
+      },
+      "length_in": 1.24,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "sierra-matchking-hpbt-338-300",
+      "name": "MatchKing HPBT",
+      "diameter_in": 0.338,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.768
+      },
+      "length_in": 1.7,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2726 @@
+{
+  "maker": "Hornady",
+  "bullets": [
+    {
+      "id": "hornady-v-max-172-20",
+      "name": "V-MAX",
+      "diameter_in": 0.172,
+      "weight_gr": 20,
+      "bc": {
+        "g1": 0.185
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-172-25",
+      "name": "V-MAX",
+      "diameter_in": 0.172,
+      "weight_gr": 25,
+      "bc": {
+        "g1": 0.23
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-varmint-172-25",
+      "name": "Varmint",
+      "diameter_in": 0.172,
+      "weight_gr": 25,
+      "bc": {
+        "g1": 0.187
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ntx-204-24",
+      "name": "NTX",
+      "diameter_in": 0.204,
+      "weight_gr": 24,
+      "bc": {
+        "g1": 0.17
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-204-32",
+      "name": "V-MAX",
+      "diameter_in": 0.204,
+      "weight_gr": 32,
+      "bc": {
+        "g1": 0.21
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-204-40",
+      "name": "V-MAX",
+      "diameter_in": 0.204,
+      "weight_gr": 40,
+      "bc": {
+        "g1": 0.275
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-varmint-204-45",
+      "name": "Varmint",
+      "diameter_in": 0.204,
+      "weight_gr": 45,
+      "bc": {
+        "g1": 0.245
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ntx-224-35",
+      "name": "NTX",
+      "diameter_in": 0.224,
+      "weight_gr": 35,
+      "bc": {
+        "g1": 0.177
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-224-35",
+      "name": "V-MAX",
+      "diameter_in": 0.224,
+      "weight_gr": 35,
+      "bc": {
+        "g1": 0.109
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-224-40",
+      "name": "V-MAX",
+      "diameter_in": 0.224,
+      "weight_gr": 40,
+      "bc": {
+        "g1": 0.2
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-varmint-224-45",
+      "name": "Varmint",
+      "diameter_in": 0.224,
+      "weight_gr": 45,
+      "bc": {
+        "g1": 0.202
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-224-50",
+      "name": "GMX",
+      "diameter_in": 0.224,
+      "weight_gr": 50,
+      "bc": {
+        "g1": 0.215
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-224-50",
+      "name": "V-MAX",
+      "diameter_in": 0.224,
+      "weight_gr": 50,
+      "bc": {
+        "g1": 0.242
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-varmint-224-50",
+      "name": "Varmint",
+      "diameter_in": 0.224,
+      "weight_gr": 50,
+      "bc": {
+        "g1": 0.214
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-224-52",
+      "name": "ELD Match",
+      "diameter_in": 0.224,
+      "weight_gr": 52,
+      "bc": {
+        "g1": 0.247
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-224-52",
+      "name": "Match",
+      "diameter_in": 0.224,
+      "weight_gr": 52,
+      "bc": {
+        "g1": 0.229
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-224-53",
+      "name": "Match",
+      "diameter_in": 0.224,
+      "weight_gr": 53,
+      "bc": {
+        "g1": 0.218
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-224-53",
+      "name": "V-MAX",
+      "diameter_in": 0.224,
+      "weight_gr": 53,
+      "bc": {
+        "g1": 0.29
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-224-55",
+      "name": "GMX",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.245
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-traditional-224-55",
+      "name": "Traditional",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.243
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-224-55",
+      "name": "V-MAX",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.255
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-varmint-224-55",
+      "name": "Varmint",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.235
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-224-60",
+      "name": "V-MAX",
+      "diameter_in": 0.224,
+      "weight_gr": 60,
+      "bc": {
+        "g1": 0.265
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-varmint-224-60",
+      "name": "Varmint",
+      "diameter_in": 0.224,
+      "weight_gr": 60,
+      "bc": {
+        "g1": 0.271
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-traditional-224-62",
+      "name": "Traditional",
+      "diameter_in": 0.224,
+      "weight_gr": 62,
+      "bc": {
+        "g1": 0.274
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-224-73",
+      "name": "ELD Match",
+      "diameter_in": 0.224,
+      "weight_gr": 73,
+      "bc": {
+        "g1": 0.398,
+        "g7": 0.2
+      },
+      "length_in": 0.96,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "hornady-eld-match-224-75",
+      "name": "ELD Match",
+      "diameter_in": 0.224,
+      "weight_gr": 75,
+      "bc": {
+        "g1": 0.467,
+        "g7": 0.235
+      },
+      "length_in": 1,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "hornady-eld-match-243-108",
+      "name": "ELD Match",
+      "diameter_in": 0.243,
+      "weight_gr": 108,
+      "bc": {
+        "g1": 0.536,
+        "g7": 0.27
+      },
+      "length_in": 1.24,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "hornady-varmint-257-60",
+      "name": "Varmint",
+      "diameter_in": 0.257,
+      "weight_gr": 60,
+      "bc": {
+        "g1": 0.101
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-257-75",
+      "name": "V-MAX",
+      "diameter_in": 0.257,
+      "weight_gr": 75,
+      "bc": {
+        "g1": 0.29
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-257-90",
+      "name": "GMX",
+      "diameter_in": 0.257,
+      "weight_gr": 90,
+      "bc": {
+        "g1": 0.29
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-257-110",
+      "name": "ELD-X",
+      "diameter_in": 0.257,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.465,
+        "g7": 0.234
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ftx-257-110",
+      "name": "FTX",
+      "diameter_in": 0.257,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.34
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interbond-257-110",
+      "name": "InterBond",
+      "diameter_in": 0.257,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.39
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-257-117",
+      "name": "InterLock",
+      "diameter_in": 0.257,
+      "weight_gr": 117,
+      "bc": {
+        "g1": 0.391
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-257-117",
+      "name": "SST",
+      "diameter_in": 0.257,
+      "weight_gr": 117,
+      "bc": {
+        "g1": 0.39
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-264-95",
+      "name": "V-MAX",
+      "diameter_in": 0.264,
+      "weight_gr": 95,
+      "bc": {
+        "g1": 0.365
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-264-100",
+      "name": "ELD Match",
+      "diameter_in": 0.264,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.385,
+        "g7": 0.194
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-264-120",
+      "name": "ELD Match",
+      "diameter_in": 0.264,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.486,
+        "g7": 0.245
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-264-120",
+      "name": "GMX",
+      "diameter_in": 0.264,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.45
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-264-123",
+      "name": "ELD Match",
+      "diameter_in": 0.264,
+      "weight_gr": 123,
+      "bc": {
+        "g1": 0.506,
+        "g7": 0.255
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-264-123",
+      "name": "SST",
+      "diameter_in": 0.264,
+      "weight_gr": 123,
+      "bc": {
+        "g1": 0.51
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interbond-264-129",
+      "name": "InterBond",
+      "diameter_in": 0.264,
+      "weight_gr": 129,
+      "bc": {
+        "g1": 0.485
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-264-129",
+      "name": "InterLock",
+      "diameter_in": 0.264,
+      "weight_gr": 129,
+      "bc": {
+        "g1": 0.445
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-264-129",
+      "name": "SST",
+      "diameter_in": 0.264,
+      "weight_gr": 129,
+      "bc": {
+        "g1": 0.485
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-264-130",
+      "name": "ELD Match",
+      "diameter_in": 0.264,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.554,
+        "g7": 0.279
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-264-140",
+      "name": "ELD Match",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.646,
+        "g7": 0.326
+      },
+      "length_in": 1.39,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "hornady-interlock-264-140",
+      "name": "InterLock",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.465
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-264-140",
+      "name": "Match",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.58
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-264-140",
+      "name": "SST",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.52
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-264-143",
+      "name": "ELD-X",
+      "diameter_in": 0.264,
+      "weight_gr": 143,
+      "bc": {
+        "g1": 0.625,
+        "g7": 0.315
+      },
+      "length_in": 1.38,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "hornady-eld-match-264-147",
+      "name": "ELD Match",
+      "diameter_in": 0.264,
+      "weight_gr": 147,
+      "bc": {
+        "g1": 0.697,
+        "g7": 0.351
+      },
+      "length_in": 1.43,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "hornady-interlock-264-160",
+      "name": "InterLock",
+      "diameter_in": 0.264,
+      "weight_gr": 160,
+      "bc": {
+        "g1": 0.283
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-traditional-267-160",
+      "name": "Traditional",
+      "diameter_in": 0.267,
+      "weight_gr": 160,
+      "bc": {
+        "g1": 0.275
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-277-100",
+      "name": "GMX",
+      "diameter_in": 0.277,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.274
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-277-110",
+      "name": "Match",
+      "diameter_in": 0.277,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.36
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-277-110",
+      "name": "V-MAX",
+      "diameter_in": 0.277,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.37
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-277-120",
+      "name": "SST",
+      "diameter_in": 0.277,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.4
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-277-130",
+      "name": "GMX",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.46
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interbond-277-130",
+      "name": "InterBond",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.46
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-277-130",
+      "name": "InterLock",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.409
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-277-130",
+      "name": "SST",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.46
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-277-140",
+      "name": "InterLock",
+      "diameter_in": 0.277,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.486
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-277-140",
+      "name": "SST",
+      "diameter_in": 0.277,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.495
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-277-145",
+      "name": "ELD-X",
+      "diameter_in": 0.277,
+      "weight_gr": 145,
+      "bc": {
+        "g1": 0.536,
+        "g7": 0.27
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interbond-277-150",
+      "name": "InterBond",
+      "diameter_in": 0.277,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.525
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-277-150",
+      "name": "InterLock",
+      "diameter_in": 0.277,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.462
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-277-150",
+      "name": "SST",
+      "diameter_in": 0.277,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.525
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-284-120",
+      "name": "V-MAX",
+      "diameter_in": 0.284,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.365
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-284-139",
+      "name": "GMX",
+      "diameter_in": 0.284,
+      "weight_gr": 139,
+      "bc": {
+        "g1": 0.486
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interbond-284-139",
+      "name": "InterBond",
+      "diameter_in": 0.284,
+      "weight_gr": 139,
+      "bc": {
+        "g1": 0.486
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-284-139",
+      "name": "InterLock",
+      "diameter_in": 0.284,
+      "weight_gr": 139,
+      "bc": {
+        "g1": 0.453
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-284-139",
+      "name": "SST",
+      "diameter_in": 0.284,
+      "weight_gr": 139,
+      "bc": {
+        "g1": 0.486
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-284-150",
+      "name": "ELD-X",
+      "diameter_in": 0.284,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.574,
+        "g7": 0.289
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interbond-284-154",
+      "name": "InterBond",
+      "diameter_in": 0.284,
+      "weight_gr": 154,
+      "bc": {
+        "g1": 0.525
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-284-154",
+      "name": "InterLock",
+      "diameter_in": 0.284,
+      "weight_gr": 154,
+      "bc": {
+        "g1": 0.433
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-284-154",
+      "name": "SST",
+      "diameter_in": 0.284,
+      "weight_gr": 154,
+      "bc": {
+        "g1": 0.525
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-284-162",
+      "name": "ELD Match",
+      "diameter_in": 0.284,
+      "weight_gr": 162,
+      "bc": {
+        "g1": 0.67,
+        "g7": 0.338
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-284-162",
+      "name": "ELD-X",
+      "diameter_in": 0.284,
+      "weight_gr": 162,
+      "bc": {
+        "g1": 0.63,
+        "g7": 0.315
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-284-162",
+      "name": "InterLock",
+      "diameter_in": 0.284,
+      "weight_gr": 162,
+      "bc": {
+        "g1": 0.514
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-284-162",
+      "name": "Match",
+      "diameter_in": 0.284,
+      "weight_gr": 162,
+      "bc": {
+        "g1": 0.61
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-284-162",
+      "name": "SST",
+      "diameter_in": 0.284,
+      "weight_gr": 162,
+      "bc": {
+        "g1": 0.55
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-284-175",
+      "name": "ELD-X",
+      "diameter_in": 0.284,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.689,
+        "g7": 0.347
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-284-175",
+      "name": "InterLock",
+      "diameter_in": 0.284,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.462
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-284-180",
+      "name": "ELD Match",
+      "diameter_in": 0.284,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.796,
+        "g7": 0.401
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-varmint-308-100",
+      "name": "Varmint",
+      "diameter_in": 0.308,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.152
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-308-110",
+      "name": "GMX",
+      "diameter_in": 0.308,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.305
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-traditional-308-110",
+      "name": "Traditional",
+      "diameter_in": 0.308,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.178
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-v-max-308-110",
+      "name": "V-MAX",
+      "diameter_in": 0.308,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.29
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-varmint-308-110",
+      "name": "Varmint",
+      "diameter_in": 0.308,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.256
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-308-125",
+      "name": "GMX",
+      "diameter_in": 0.308,
+      "weight_gr": 125,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-308-125",
+      "name": "SST",
+      "diameter_in": 0.308,
+      "weight_gr": 125,
+      "bc": {
+        "g1": 0.305
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-traditional-308-125",
+      "name": "Traditional",
+      "diameter_in": 0.308,
+      "weight_gr": 125,
+      "bc": {
+        "g1": 0.32
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-varmint-308-130",
+      "name": "Varmint",
+      "diameter_in": 0.308,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ftx-308-135",
+      "name": "FTX",
+      "diameter_in": 0.308,
+      "weight_gr": 135,
+      "bc": {
+        "g1": 0.274
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-monoflex-308-140",
+      "name": "MonoFlex",
+      "diameter_in": 0.308,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.335
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-308-150",
+      "name": "GMX",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.415
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interbond-308-150",
+      "name": "InterBond",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.415
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-308-150",
+      "name": "InterLock",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.186
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-308-150",
+      "name": "SST",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.37
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-traditional-308-150",
+      "name": "Traditional",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.398
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-a-max-308-155",
+      "name": "A-MAX",
+      "diameter_in": 0.308,
+      "weight_gr": 155,
+      "bc": {
+        "g1": 0.435
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-308-155",
+      "name": "ELD Match",
+      "diameter_in": 0.308,
+      "weight_gr": 155,
+      "bc": {
+        "g1": 0.461,
+        "g7": 0.232
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-308-155",
+      "name": "Match",
+      "diameter_in": 0.308,
+      "weight_gr": 155,
+      "bc": {
+        "g1": 0.405
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ftx-308-160",
+      "name": "FTX",
+      "diameter_in": 0.308,
+      "weight_gr": 160,
+      "bc": {
+        "g1": 0.395
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-308-165",
+      "name": "GMX",
+      "diameter_in": 0.308,
+      "weight_gr": 165,
+      "bc": {
+        "g1": 0.447
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interbond-308-165",
+      "name": "InterBond",
+      "diameter_in": 0.308,
+      "weight_gr": 165,
+      "bc": {
+        "g1": 0.447
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-308-165",
+      "name": "InterLock",
+      "diameter_in": 0.308,
+      "weight_gr": 165,
+      "bc": {
+        "g1": 0.435
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-308-165",
+      "name": "SST",
+      "diameter_in": 0.308,
+      "weight_gr": 165,
+      "bc": {
+        "g1": 0.447
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-a-max-308-168",
+      "name": "A-MAX",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.475
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-308-168",
+      "name": "ELD Match",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.523,
+        "g7": 0.263
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-308-168",
+      "name": "Match",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.45
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-308-170",
+      "name": "InterLock",
+      "diameter_in": 0.308,
+      "weight_gr": 170,
+      "bc": {
+        "g1": 0.189
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-308-178",
+      "name": "ELD Match",
+      "diameter_in": 0.308,
+      "weight_gr": 178,
+      "bc": {
+        "g1": 0.547,
+        "g7": 0.275
+      },
+      "length_in": 1.34,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "hornady-eld-x-308-178",
+      "name": "ELD-X",
+      "diameter_in": 0.308,
+      "weight_gr": 178,
+      "bc": {
+        "g1": 0.552,
+        "g7": 0.278
+      },
+      "length_in": 1.36,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "hornady-match-308-178",
+      "name": "Match",
+      "diameter_in": 0.308,
+      "weight_gr": 178,
+      "bc": {
+        "g1": 0.53
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-308-180",
+      "name": "GMX",
+      "diameter_in": 0.308,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.485
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interbond-308-180",
+      "name": "InterBond",
+      "diameter_in": 0.308,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.48
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-308-180",
+      "name": "InterLock",
+      "diameter_in": 0.308,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.241
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-308-180",
+      "name": "SST",
+      "diameter_in": 0.308,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.48
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-308-195",
+      "name": "ELD Match",
+      "diameter_in": 0.308,
+      "weight_gr": 195,
+      "bc": {
+        "g1": 0.584,
+        "g7": 0.294
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-308-195",
+      "name": "Match",
+      "diameter_in": 0.308,
+      "weight_gr": 195,
+      "bc": {
+        "g1": 0.55
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-308-200",
+      "name": "ELD-X",
+      "diameter_in": 0.308,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.597,
+        "g7": 0.301
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-308-208",
+      "name": "ELD Match",
+      "diameter_in": 0.308,
+      "weight_gr": 208,
+      "bc": {
+        "g1": 0.67,
+        "g7": 0.337
+      },
+      "length_in": 1.48,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "hornady-match-308-208",
+      "name": "Match",
+      "diameter_in": 0.308,
+      "weight_gr": 208,
+      "bc": {
+        "g1": 0.62,
+        "g7": 0.311
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-308-212",
+      "name": "ELD-X",
+      "diameter_in": 0.308,
+      "weight_gr": 212,
+      "bc": {
+        "g1": 0.673,
+        "g7": 0.336
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-308-220",
+      "name": "ELD-X",
+      "diameter_in": 0.308,
+      "weight_gr": 220,
+      "bc": {
+        "g1": 0.65,
+        "g7": 0.325
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-308-220",
+      "name": "InterLock",
+      "diameter_in": 0.308,
+      "weight_gr": 220,
+      "bc": {
+        "g1": 0.3
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-308-225",
+      "name": "ELD Match",
+      "diameter_in": 0.308,
+      "weight_gr": 225,
+      "bc": {
+        "g1": 0.777,
+        "g7": 0.391
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-308-225",
+      "name": "Match",
+      "diameter_in": 0.308,
+      "weight_gr": 225,
+      "bc": {
+        "g1": 0.67,
+        "g7": 0.336
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-31-123",
+      "name": "InterLock",
+      "diameter_in": 0.31,
+      "weight_gr": 123,
+      "bc": {
+        "g1": 0.252
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-31-123",
+      "name": "SST",
+      "diameter_in": 0.31,
+      "weight_gr": 123,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-traditional-3105-174",
+      "name": "Traditional",
+      "diameter_in": 0.3105,
+      "weight_gr": 174,
+      "bc": {
+        "g1": 0.47
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-312-150",
+      "name": "InterLock",
+      "diameter_in": 0.312,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.361
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-312-174",
+      "name": "InterLock",
+      "diameter_in": 0.312,
+      "weight_gr": 174,
+      "bc": {
+        "g1": 0.262
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ftx-321-165",
+      "name": "FTX",
+      "diameter_in": 0.321,
+      "weight_gr": 165,
+      "bc": {
+        "g1": 0.31
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-321-170",
+      "name": "InterLock",
+      "diameter_in": 0.321,
+      "weight_gr": 170,
+      "bc": {
+        "g1": 0.249
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-323-150",
+      "name": "InterLock",
+      "diameter_in": 0.323,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.29
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-323-170",
+      "name": "InterLock",
+      "diameter_in": 0.323,
+      "weight_gr": 170,
+      "bc": {
+        "g1": 0.217
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-323-170",
+      "name": "SST",
+      "diameter_in": 0.323,
+      "weight_gr": 170,
+      "bc": {
+        "g1": 0.445
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-323-180",
+      "name": "GMX",
+      "diameter_in": 0.323,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.42
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-323-195",
+      "name": "InterLock",
+      "diameter_in": 0.323,
+      "weight_gr": 195,
+      "bc": {
+        "g1": 0.41
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-323-196",
+      "name": "Match",
+      "diameter_in": 0.323,
+      "weight_gr": 196,
+      "bc": {
+        "g1": 0.525
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-338-185",
+      "name": "GMX",
+      "diameter_in": 0.338,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.42
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ftx-338-200",
+      "name": "FTX",
+      "diameter_in": 0.338,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.43
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-338-200",
+      "name": "SST",
+      "diameter_in": 0.338,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.455
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interbond-338-225",
+      "name": "InterBond",
+      "diameter_in": 0.338,
+      "weight_gr": 225,
+      "bc": {
+        "g1": 0.515
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-338-225",
+      "name": "InterLock",
+      "diameter_in": 0.338,
+      "weight_gr": 225,
+      "bc": {
+        "g1": 0.397
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-sst-338-225",
+      "name": "SST",
+      "diameter_in": 0.338,
+      "weight_gr": 225,
+      "bc": {
+        "g1": 0.515
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-338-230",
+      "name": "ELD-X",
+      "diameter_in": 0.338,
+      "weight_gr": 230,
+      "bc": {
+        "g1": 0.616,
+        "g7": 0.31
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-338-250",
+      "name": "InterLock",
+      "diameter_in": 0.338,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.431
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-match-338-250",
+      "name": "Match",
+      "diameter_in": 0.338,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.67
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-x-338-270",
+      "name": "ELD-X",
+      "diameter_in": 0.338,
+      "weight_gr": 270,
+      "bc": {
+        "g1": 0.757,
+        "g7": 0.381
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-eld-match-338-285",
+      "name": "ELD Match",
+      "diameter_in": 0.338,
+      "weight_gr": 285,
+      "bc": {
+        "g1": 0.789,
+        "g7": 0.399
+      },
+      "length_in": 1.74,
+      "source": {
+        "type": "catalogue",
+        "ref": "manufacturer website, checked 2026-10"
+      }
+    },
+    {
+      "id": "hornady-match-338-285",
+      "name": "Match",
+      "diameter_in": 0.338,
+      "weight_gr": 285,
+      "bc": {
+        "g1": 0.756,
+        "g7": 0.352
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ftx-348-200",
+      "name": "FTX",
+      "diameter_in": 0.348,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.32
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-348-200",
+      "name": "InterLock",
+      "diameter_in": 0.348,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.246
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ftx-358-200",
+      "name": "FTX",
+      "diameter_in": 0.358,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.3
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-358-200",
+      "name": "InterLock",
+      "diameter_in": 0.358,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.195
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-358-250",
+      "name": "InterLock",
+      "diameter_in": 0.358,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.375
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-366-250",
+      "name": "GMX",
+      "diameter_in": 0.366,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.36
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-366-286",
+      "name": "InterLock",
+      "diameter_in": 0.366,
+      "weight_gr": 286,
+      "bc": {
+        "g1": 0.4
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgs-366-300",
+      "name": "DGS",
+      "diameter_in": 0.366,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.28
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-gmx-375-250",
+      "name": "GMX",
+      "diameter_in": 0.375,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.43
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-375-270",
+      "name": "InterLock",
+      "diameter_in": 0.375,
+      "weight_gr": 270,
+      "bc": {
+        "g1": 0.38
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgs-375-300",
+      "name": "DGS",
+      "diameter_in": 0.375,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.275
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgx-bonded-375-300",
+      "name": "DGX Bonded",
+      "diameter_in": 0.375,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.275
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgs-41-400",
+      "name": "DGS",
+      "diameter_in": 0.41,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.325
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgx-bonded-41-400",
+      "name": "DGX Bonded",
+      "diameter_in": 0.41,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.325
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-411-300",
+      "name": "InterLock",
+      "diameter_in": 0.411,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.25
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgs-416-400",
+      "name": "DGS",
+      "diameter_in": 0.416,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.319
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgx-bonded-416-400",
+      "name": "DGX Bonded",
+      "diameter_in": 0.416,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.319
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgs-423-400",
+      "name": "DGS",
+      "diameter_in": 0.423,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.315
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgx-bonded-423-400",
+      "name": "DGX Bonded",
+      "diameter_in": 0.423,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.315
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ftx-43-265",
+      "name": "FTX",
+      "diameter_in": 0.43,
+      "weight_gr": 265,
+      "bc": {
+        "g1": 0.225
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-43-265",
+      "name": "InterLock",
+      "diameter_in": 0.43,
+      "weight_gr": 265,
+      "bc": {
+        "g1": 0.189
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ftx-452-250",
+      "name": "FTX",
+      "diameter_in": 0.452,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.21
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-monoflex-458-250",
+      "name": "MonoFlex",
+      "diameter_in": 0.458,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.175
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-458-300",
+      "name": "InterLock",
+      "diameter_in": 0.458,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.197
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-ftx-458-325",
+      "name": "FTX",
+      "diameter_in": 0.458,
+      "weight_gr": 325,
+      "bc": {
+        "g1": 0.23
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-interlock-458-350",
+      "name": "InterLock",
+      "diameter_in": 0.458,
+      "weight_gr": 350,
+      "bc": {
+        "g1": 0.195
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgs-458-480",
+      "name": "DGS",
+      "diameter_in": 0.458,
+      "weight_gr": 480,
+      "bc": {
+        "g1": 0.285
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgx-bonded-458-480",
+      "name": "DGX Bonded",
+      "diameter_in": 0.458,
+      "weight_gr": 480,
+      "bc": {
+        "g1": 0.285
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgs-458-500",
+      "name": "DGS",
+      "diameter_in": 0.458,
+      "weight_gr": 500,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgx-bonded-458-500",
+      "name": "DGX Bonded",
+      "diameter_in": 0.458,
+      "weight_gr": 500,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgs-474-500",
+      "name": "DGS",
+      "diameter_in": 0.474,
+      "weight_gr": 500,
+      "bc": {
+        "g1": 0.29
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgx-bonded-474-500",
+      "name": "DGX Bonded",
+      "diameter_in": 0.474,
+      "weight_gr": 500,
+      "bc": {
+        "g1": 0.29
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgs-505-525",
+      "name": "DGS",
+      "diameter_in": 0.505,
+      "weight_gr": 525,
+      "bc": {
+        "g1": 0.27
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgx-505-525",
+      "name": "DGX",
+      "diameter_in": 0.505,
+      "weight_gr": 525,
+      "bc": {
+        "g1": 0.27
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgs-51-570",
+      "name": "DGS",
+      "diameter_in": 0.51,
+      "weight_gr": 570,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-dgx-bonded-51-570",
+      "name": "DGX Bonded",
+      "diameter_in": 0.51,
+      "weight_gr": 570,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "hornady-a-max-51-750",
+      "name": "A-MAX",
+      "diameter_in": 0.51,
+      "weight_gr": 750,
+      "bc": {
+        "g1": 1.05
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    }
+  ]
+}

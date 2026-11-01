@@ -1,0 +1,2427 @@
+{
+  "maker": "Barnes",
+  "bullets": [
+    {
+      "id": "barnes-varmint-grenade-204-26",
+      "name": "Varmint Grenade",
+      "diameter_in": 0.204,
+      "weight_gr": 26,
+      "bc": {
+        "g1": 0.131
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-varmin-a-tor-204-32",
+      "name": "Varmin-a-tor",
+      "diameter_in": 0.204,
+      "weight_gr": 32,
+      "bc": {
+        "g1": 0.159
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-varmint-grenade-224-30",
+      "name": "Varmint Grenade",
+      "diameter_in": 0.224,
+      "weight_gr": 30,
+      "bc": {
+        "g1": 0.101
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-varmint-grenade-224-36",
+      "name": "Varmint Grenade",
+      "diameter_in": 0.224,
+      "weight_gr": 36,
+      "bc": {
+        "g1": 0.149
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-varmin-a-tor-224-40",
+      "name": "Varmin-a-tor",
+      "diameter_in": 0.224,
+      "weight_gr": 40,
+      "bc": {
+        "g1": 0.153
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-224-45",
+      "name": "TSX Hunting",
+      "diameter_in": 0.224,
+      "weight_gr": 45,
+      "bc": {
+        "g1": 0.188
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-224-50",
+      "name": "TSX Hunting",
+      "diameter_in": 0.224,
+      "weight_gr": 50,
+      "bc": {
+        "g1": 0.197
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-224-50",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.224,
+      "weight_gr": 50,
+      "bc": {
+        "g1": 0.229
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-varmin-a-tor-224-50",
+      "name": "Varmin-a-tor",
+      "diameter_in": 0.224,
+      "weight_gr": 50,
+      "bc": {
+        "g1": 0.192
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-varmint-grenade-224-50",
+      "name": "Varmint Grenade",
+      "diameter_in": 0.224,
+      "weight_gr": 50,
+      "bc": {
+        "g1": 0.183
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-match-burners-224-52",
+      "name": "Match Burners",
+      "diameter_in": 0.224,
+      "weight_gr": 52,
+      "bc": {
+        "g1": 0.224
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-224-53",
+      "name": "TSX Hunting",
+      "diameter_in": 0.224,
+      "weight_gr": 53,
+      "bc": {
+        "g1": 0.204
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-mpg-lf-frangible-224-55",
+      "name": "MPG LF Frangible",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.225
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-rrlp-224-55",
+      "name": "TAC-RRLP",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.225
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-224-55",
+      "name": "TAC-X",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.209
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-224-55",
+      "name": "TSX Hunting",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.209
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-224-55",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.272
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-224-62",
+      "name": "TAC-X",
+      "diameter_in": 0.224,
+      "weight_gr": 62,
+      "bc": {
+        "g1": 0.287
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-224-62",
+      "name": "TSX Hunting",
+      "diameter_in": 0.224,
+      "weight_gr": 62,
+      "bc": {
+        "g1": 0.287
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-224-62",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.224,
+      "weight_gr": 62,
+      "bc": {
+        "g1": 0.294
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-match-burners-224-69",
+      "name": "Match Burners",
+      "diameter_in": 0.224,
+      "weight_gr": 69,
+      "bc": {
+        "g1": 0.339
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-224-70",
+      "name": "TAC-X",
+      "diameter_in": 0.224,
+      "weight_gr": 70,
+      "bc": {
+        "g1": 0.314
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-224-70",
+      "name": "TSX Hunting",
+      "diameter_in": 0.224,
+      "weight_gr": 70,
+      "bc": {
+        "g1": 0.314
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-match-burners-224-85",
+      "name": "Match Burners",
+      "diameter_in": 0.224,
+      "weight_gr": 85,
+      "bc": {
+        "g1": 0.41
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-varmin-a-tor-243-58",
+      "name": "Varmin-a-tor",
+      "diameter_in": 0.243,
+      "weight_gr": 58,
+      "bc": {
+        "g1": 0.173
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-varmint-grenade-243-62",
+      "name": "Varmint Grenade",
+      "diameter_in": 0.243,
+      "weight_gr": 62,
+      "bc": {
+        "g1": 0.199
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-match-burners-243-68",
+      "name": "Match Burners",
+      "diameter_in": 0.243,
+      "weight_gr": 68,
+      "bc": {
+        "g1": 0.267
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-varmin-a-tor-243-72",
+      "name": "Varmin-a-tor",
+      "diameter_in": 0.243,
+      "weight_gr": 72,
+      "bc": {
+        "g1": 0.208
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-243-80",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.243,
+      "weight_gr": 80,
+      "bc": {
+        "g1": 0.331
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-243-85",
+      "name": "TSX Hunting",
+      "diameter_in": 0.243,
+      "weight_gr": 85,
+      "bc": {
+        "g1": 0.333
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-match-burners-243-105",
+      "name": "Match Burners",
+      "diameter_in": 0.243,
+      "weight_gr": 105,
+      "bc": {
+        "g1": 0.511
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-257-80",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.257,
+      "weight_gr": 80,
+      "bc": {
+        "g1": 0.316
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-257-100",
+      "name": "TSX Hunting",
+      "diameter_in": 0.257,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.336
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-257-100",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.257,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.357
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-257-115",
+      "name": "TSX Hunting",
+      "diameter_in": 0.257,
+      "weight_gr": 115,
+      "bc": {
+        "g1": 0.335
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-tx-264-100",
+      "name": "TAC-TX",
+      "diameter_in": 0.264,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.359
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-264-100",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.264,
+      "weight_gr": 100,
+      "bc": {
+        "g1": 0.359
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-tx-264-120",
+      "name": "TAC-TX",
+      "diameter_in": 0.264,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.412
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-264-120",
+      "name": "TAC-X",
+      "diameter_in": 0.264,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.381
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-264-120",
+      "name": "TSX Hunting",
+      "diameter_in": 0.264,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.381
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-264-120",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.264,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.412
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-264-127",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.264,
+      "weight_gr": 127,
+      "bc": {
+        "g1": 0.468
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-264-130",
+      "name": "TSX Hunting",
+      "diameter_in": 0.264,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.365
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-match-burners-264-140",
+      "name": "Match Burners",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.586
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-mpg-lf-frangible-277-85",
+      "name": "MPG LF Frangible",
+      "diameter_in": 0.277,
+      "weight_gr": 85,
+      "bc": {
+        "g1": 0.229
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-rrlp-277-85",
+      "name": "TAC-RRLP",
+      "diameter_in": 0.277,
+      "weight_gr": 85,
+      "bc": {
+        "g1": 0.229
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-277-85",
+      "name": "TAC-X",
+      "diameter_in": 0.277,
+      "weight_gr": 85,
+      "bc": {
+        "g1": 0.246
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-277-85",
+      "name": "TSX Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 85,
+      "bc": {
+        "g1": 0.246
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-tx-277-95",
+      "name": "TAC-TX",
+      "diameter_in": 0.277,
+      "weight_gr": 95,
+      "bc": {
+        "g1": 0.292
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-277-95",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 95,
+      "bc": {
+        "g1": 0.292
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-277-110",
+      "name": "TAC-X",
+      "diameter_in": 0.277,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.323
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-277-110",
+      "name": "TSX Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.323
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-277-110",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.377
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-277-129",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 129,
+      "bc": {
+        "g1": 0.463
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-277-130",
+      "name": "TSX Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.374
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-277-130",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.392
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-277-140",
+      "name": "TSX Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.404
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-277-150",
+      "name": "TSX Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.386
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-284-110",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.319
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-284-120",
+      "name": "TSX Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.349
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-284-120",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.373
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-284-139",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 139,
+      "bc": {
+        "g1": 0.47
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-284-140",
+      "name": "TSX Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.394
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-284-140",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.412
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-284-145",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 145,
+      "bc": {
+        "g1": 0.486
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-284-150",
+      "name": "TSX Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.408
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-284-150",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.45
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-284-160",
+      "name": "TSX Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 160,
+      "bc": {
+        "g1": 0.392
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-284-168",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.55
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-match-burners-284-171",
+      "name": "Match Burners",
+      "diameter_in": 0.284,
+      "weight_gr": 171,
+      "bc": {
+        "g1": 0.645
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-284-175",
+      "name": "TSX Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.417
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-tx-308-110",
+      "name": "TAC-TX",
+      "diameter_in": 0.308,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-308-110",
+      "name": "TAC-X",
+      "diameter_in": 0.308,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.264
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-308-110",
+      "name": "TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.264
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-308-110",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 110,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-tx-308-120",
+      "name": "TAC-TX",
+      "diameter_in": 0.308,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.358
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-308-130",
+      "name": "TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.34
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-308-130",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.35
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-mpg-lf-frangible-308-150",
+      "name": "MPG LF Frangible",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.357
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-rrlp-308-150",
+      "name": "TAC-RRLP",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.357
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-308-150",
+      "name": "TAC-X",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.369
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-308-150",
+      "name": "TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.369
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-308-150",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.42
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-match-burners-308-155",
+      "name": "Match Burners",
+      "diameter_in": 0.308,
+      "weight_gr": 155,
+      "bc": {
+        "g1": 0.467
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-308-165",
+      "name": "TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 165,
+      "bc": {
+        "g1": 0.398
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-308-165",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 165,
+      "bc": {
+        "g1": 0.442
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-tx-308-168",
+      "name": "TAC-TX",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.47
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-308-168",
+      "name": "TAC-X",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.404
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-308-168",
+      "name": "TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.404
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-308-168",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.47
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-308-175",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.508
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-match-burners-308-175",
+      "name": "Match Burners",
+      "diameter_in": 0.308,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.521
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-308-180",
+      "name": "TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.453
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-308-180",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.484
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-308-200",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.546
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-308-200",
+      "name": "TSX Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.423
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-mpg-lf-frangible-31-108",
+      "name": "MPG LF Frangible",
+      "diameter_in": 0.31,
+      "weight_gr": 108,
+      "bc": {
+        "g1": 0.243
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-rrlp-31-108",
+      "name": "TAC-RRLP",
+      "diameter_in": 0.31,
+      "weight_gr": 108,
+      "bc": {
+        "g1": 0.243
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-31-123",
+      "name": "TAC-X",
+      "diameter_in": 0.31,
+      "weight_gr": 123,
+      "bc": {
+        "g1": 0.275
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-31-123",
+      "name": "TSX Hunting",
+      "diameter_in": 0.31,
+      "weight_gr": 123,
+      "bc": {
+        "g1": 0.275
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-311-150",
+      "name": "TSX Hunting",
+      "diameter_in": 0.311,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.322
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-323-160",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.323,
+      "weight_gr": 160,
+      "bc": {
+        "g1": 0.4
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-323-180",
+      "name": "TSX Hunting",
+      "diameter_in": 0.323,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.381
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-323-200",
+      "name": "TSX Hunting",
+      "diameter_in": 0.323,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.421
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-338-160",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 160,
+      "bc": {
+        "g1": 0.342
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-338-185",
+      "name": "TSX Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.352
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-338-185",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.432
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-338-210",
+      "name": "TSX Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 210,
+      "bc": {
+        "g1": 0.404
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-338-210",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 210,
+      "bc": {
+        "g1": 0.482
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-tx-338-225",
+      "name": "TAC-TX",
+      "diameter_in": 0.338,
+      "weight_gr": 225,
+      "bc": {
+        "g1": 0.514
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-338-225",
+      "name": "TSX Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 225,
+      "bc": {
+        "g1": 0.386
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-338-225",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 225,
+      "bc": {
+        "g1": 0.514
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-338-250",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.602
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-338-250",
+      "name": "TSX Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.425
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-338-265",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 265,
+      "bc": {
+        "g1": 0.575
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-tx-338-265",
+      "name": "TAC-TX",
+      "diameter_in": 0.338,
+      "weight_gr": 265,
+      "bc": {
+        "g1": 0.575
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-338-280",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 280,
+      "bc": {
+        "g1": 0.667
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-338-285",
+      "name": "TAC-X",
+      "diameter_in": 0.338,
+      "weight_gr": 285,
+      "bc": {
+        "g1": 0.585
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-338-285",
+      "name": "TSX Hunting",
+      "diameter_in": 0.338,
+      "weight_gr": 285,
+      "bc": {
+        "g1": 0.585
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-originals-348-220",
+      "name": "Originals",
+      "diameter_in": 0.348,
+      "weight_gr": 220,
+      "bc": {
+        "g1": 0.301
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-358-180",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.358,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.295
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-358-200",
+      "name": "TSX Hunting",
+      "diameter_in": 0.358,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.284
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-358-200",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.358,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.369
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-358-225",
+      "name": "TSX Hunting",
+      "diameter_in": 0.358,
+      "weight_gr": 225,
+      "bc": {
+        "g1": 0.359
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-366-250",
+      "name": "Banded Solids",
+      "diameter_in": 0.366,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.214
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-366-250",
+      "name": "TSX Hunting",
+      "diameter_in": 0.366,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.361
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-366-250",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.366,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.44
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-366-286",
+      "name": "Banded Solids",
+      "diameter_in": 0.366,
+      "weight_gr": 286,
+      "bc": {
+        "g1": 0.247
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-366-286",
+      "name": "TSX Hunting",
+      "diameter_in": 0.366,
+      "weight_gr": 286,
+      "bc": {
+        "g1": 0.411
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-375-235",
+      "name": "TSX Hunting",
+      "diameter_in": 0.375,
+      "weight_gr": 235,
+      "bc": {
+        "g1": 0.27
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-375-250",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.375,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.424
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-originals-375-255",
+      "name": "Originals",
+      "diameter_in": 0.375,
+      "weight_gr": 255,
+      "bc": {
+        "g1": 0.29
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-lrx-long-range-hunting-375-270",
+      "name": "LRX Long Range Hunting",
+      "diameter_in": 0.375,
+      "weight_gr": 270,
+      "bc": {
+        "g1": 0.449
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-375-270",
+      "name": "TSX Hunting",
+      "diameter_in": 0.375,
+      "weight_gr": 270,
+      "bc": {
+        "g1": 0.326
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-375-300",
+      "name": "TSX Hunting",
+      "diameter_in": 0.375,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.357
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-375-350",
+      "name": "TSX Hunting",
+      "diameter_in": 0.375,
+      "weight_gr": 350,
+      "bc": {
+        "g1": 0.425
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-originals-377-255",
+      "name": "Originals",
+      "diameter_in": 0.377,
+      "weight_gr": 255,
+      "bc": {
+        "g1": 0.29
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-411-300",
+      "name": "TSX Hunting",
+      "diameter_in": 0.411,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.281
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-416-300",
+      "name": "TSX Hunting",
+      "diameter_in": 0.416,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.298
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-416-350",
+      "name": "Banded Solids",
+      "diameter_in": 0.416,
+      "weight_gr": 350,
+      "bc": {
+        "g1": 0.217
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-416-350",
+      "name": "TSX Hunting",
+      "diameter_in": 0.416,
+      "weight_gr": 350,
+      "bc": {
+        "g1": 0.345
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-416-350",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.416,
+      "weight_gr": 350,
+      "bc": {
+        "g1": 0.444
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-416-400",
+      "name": "Banded Solids",
+      "diameter_in": 0.416,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.261
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-416-400",
+      "name": "TSX Hunting",
+      "diameter_in": 0.416,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.392
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-422-400",
+      "name": "Banded Solids",
+      "diameter_in": 0.422,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.261
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-422-400",
+      "name": "TSX Hunting",
+      "diameter_in": 0.422,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.378
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-451-275",
+      "name": "TSX Hunting",
+      "diameter_in": 0.451,
+      "weight_gr": 275,
+      "bc": {
+        "g1": 0.215
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-458-250",
+      "name": "TSX Hunting",
+      "diameter_in": 0.458,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.136
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-originals-458-300",
+      "name": "Originals",
+      "diameter_in": 0.458,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.227
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-tx-458-300",
+      "name": "TAC-TX",
+      "diameter_in": 0.458,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.236
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-458-300",
+      "name": "TSX Hunting",
+      "diameter_in": 0.458,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.163
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tipped-tsx-hunting-458-300",
+      "name": "Tipped TSX Hunting",
+      "diameter_in": 0.458,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.236
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-458-350",
+      "name": "TSX Hunting",
+      "diameter_in": 0.458,
+      "weight_gr": 350,
+      "bc": {
+        "g1": 0.278
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-originals-458-400",
+      "name": "Originals",
+      "diameter_in": 0.458,
+      "weight_gr": 400,
+      "bc": {
+        "g1": 0.302
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-458-450",
+      "name": "TSX Hunting",
+      "diameter_in": 0.458,
+      "weight_gr": 450,
+      "bc": {
+        "g1": 0.369
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-458-500",
+      "name": "TSX Hunting",
+      "diameter_in": 0.458,
+      "weight_gr": 500,
+      "bc": {
+        "g1": 0.412
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-474-500",
+      "name": "Banded Solids",
+      "diameter_in": 0.474,
+      "weight_gr": 500,
+      "bc": {
+        "g1": 0.243
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-474-500",
+      "name": "TSX Hunting",
+      "diameter_in": 0.474,
+      "weight_gr": 500,
+      "bc": {
+        "g1": 0.363
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-504-525",
+      "name": "Banded Solids",
+      "diameter_in": 0.504,
+      "weight_gr": 525,
+      "bc": {
+        "g1": 0.267
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-505-525",
+      "name": "TSX Hunting",
+      "diameter_in": 0.505,
+      "weight_gr": 525,
+      "bc": {
+        "g1": 0.32
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-509-570",
+      "name": "Banded Solids",
+      "diameter_in": 0.509,
+      "weight_gr": 570,
+      "bc": {
+        "g1": 0.243
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-509-570",
+      "name": "TSX Hunting",
+      "diameter_in": 0.509,
+      "weight_gr": 570,
+      "bc": {
+        "g1": 0.369
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-originals-51-300",
+      "name": "Originals",
+      "diameter_in": 0.51,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.183
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-originals-51-450",
+      "name": "Originals",
+      "diameter_in": 0.51,
+      "weight_gr": 450,
+      "bc": {
+        "g1": 0.274
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-51-535",
+      "name": "Banded Solids",
+      "diameter_in": 0.51,
+      "weight_gr": 535,
+      "bc": {
+        "g1": 0.238
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-x-51-647",
+      "name": "TAC-X",
+      "diameter_in": 0.51,
+      "weight_gr": 647,
+      "bc": {
+        "g1": 0.572
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-51-647",
+      "name": "TSX Hunting",
+      "diameter_in": 0.51,
+      "weight_gr": 647,
+      "bc": {
+        "g1": 0.572
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-51-750",
+      "name": "Banded Solids",
+      "diameter_in": 0.51,
+      "weight_gr": 750,
+      "bc": {
+        "g1": 1.07
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tac-lr-51-750",
+      "name": "TAC-LR",
+      "diameter_in": 0.51,
+      "weight_gr": 750,
+      "bc": {
+        "g1": 0.766
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-51-800",
+      "name": "Banded Solids",
+      "diameter_in": 0.51,
+      "weight_gr": 800,
+      "bc": {
+        "g1": 1.095
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-583-750",
+      "name": "Banded Solids",
+      "diameter_in": 0.583,
+      "weight_gr": 750,
+      "bc": {
+        "g1": 0.257
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-tsx-hunting-583-750",
+      "name": "TSX Hunting",
+      "diameter_in": 0.583,
+      "weight_gr": 750,
+      "bc": {
+        "g1": 0.402
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    },
+    {
+      "id": "barnes-banded-solids-618-900",
+      "name": "Banded Solids",
+      "diameter_in": 0.618,
+      "weight_gr": 900,
+      "bc": {
+        "g1": 0.38
+      },
+      "source": {
+        "type": "dataset",
+        "ref": "https://github.com/ammolytics/projectiles",
+        "note": "ammolytics/projectiles commit 5b51ab2 (MIT)"
+      }
+    }
+  ]
+}

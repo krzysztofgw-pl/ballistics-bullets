@@ -1,0 +1,1751 @@
+{
+  "maker": "Berger",
+  "bullets": [
+    {
+      "id": "berger-fb-varmint-172-25",
+      "name": "FB Varmint",
+      "diameter_in": 0.172,
+      "weight_gr": 25,
+      "bc": {
+        "g1": 0.152
+      },
+      "length_in": 0.565,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-varmint-204-35",
+      "name": "FB Varmint",
+      "diameter_in": 0.204,
+      "weight_gr": 35,
+      "bc": {
+        "g1": 0.179
+      },
+      "length_in": 0.596,
+      "twist_in": 14,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-bt-varmint-204-40",
+      "name": "BT Varmint",
+      "diameter_in": 0.204,
+      "weight_gr": 40,
+      "bc": {
+        "g1": 0.227,
+        "g7": 0.116
+      },
+      "length_in": 0.68,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-varmint-224-40",
+      "name": "FB Varmint",
+      "diameter_in": 0.224,
+      "weight_gr": 40,
+      "bc": {
+        "g1": 0.151
+      },
+      "length_in": 0.609,
+      "twist_in": 15,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-target-224-52",
+      "name": "FB Target",
+      "diameter_in": 0.224,
+      "weight_gr": 52,
+      "bc": {
+        "g1": 0.235
+      },
+      "length_in": 0.714,
+      "twist_in": 14,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-varmint-224-52",
+      "name": "FB Varmint",
+      "diameter_in": 0.224,
+      "weight_gr": 52,
+      "bc": {
+        "g1": 0.201
+      },
+      "length_in": 0.717,
+      "twist_in": 14,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-target-224-55",
+      "name": "FB Target",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.254
+      },
+      "length_in": 0.749,
+      "twist_in": 14,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-varmint-224-55",
+      "name": "FB Varmint",
+      "diameter_in": 0.224,
+      "weight_gr": 55,
+      "bc": {
+        "g1": 0.209
+      },
+      "length_in": 0.753,
+      "twist_in": 14,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-varmint-224-60",
+      "name": "FB Varmint",
+      "diameter_in": 0.224,
+      "weight_gr": 60,
+      "bc": {
+        "g1": 0.271
+      },
+      "length_in": 0.81,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-224-70",
+      "name": "VLD Target",
+      "diameter_in": 0.224,
+      "weight_gr": 70,
+      "bc": {
+        "g1": 0.374,
+        "g7": 0.191
+      },
+      "length_in": 0.961,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-bt-target-224-73",
+      "name": "BT Target",
+      "diameter_in": 0.224,
+      "weight_gr": 73,
+      "bc": {
+        "g1": 0.348,
+        "g7": 0.178
+      },
+      "length_in": 0.963,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-224-75",
+      "name": "VLD Target",
+      "diameter_in": 0.224,
+      "weight_gr": 75,
+      "bc": {
+        "g1": 0.421,
+        "g7": 0.216
+      },
+      "length_in": 1.051,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-otm-tactical-224-77",
+      "name": "OTM Tactical",
+      "diameter_in": 0.224,
+      "weight_gr": 77,
+      "bc": {
+        "g1": 0.374,
+        "g7": 0.192
+      },
+      "length_in": 1.015,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-224-80",
+      "name": "VLD Target",
+      "diameter_in": 0.224,
+      "weight_gr": 80,
+      "bc": {
+        "g1": 0.455,
+        "g7": 0.233
+      },
+      "length_in": 1.106,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fullbore-target-224-80_5",
+      "name": "FULLBORE Target",
+      "diameter_in": 0.224,
+      "weight_gr": 80.5,
+      "bc": {
+        "g1": 0.441,
+        "g7": 0.226
+      },
+      "length_in": 1.091,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-hybrid-target-224-85_5",
+      "name": "Long Range Hybrid Target",
+      "diameter_in": 0.224,
+      "weight_gr": 85.5,
+      "bc": {
+        "g1": 0.524,
+        "g7": 0.268
+      },
+      "length_in": 1.167,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-224-90",
+      "name": "VLD Target",
+      "diameter_in": 0.224,
+      "weight_gr": 90,
+      "bc": {
+        "g1": 0.534,
+        "g7": 0.274
+      },
+      "length_in": 1.254,
+      "twist_in": 7,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-bt-target-243-65",
+      "name": "BT Target",
+      "diameter_in": 0.243,
+      "weight_gr": 65,
+      "bc": {
+        "g1": 0.281,
+        "g7": 0.144
+      },
+      "length_in": 0.833,
+      "twist_in": 13,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-target-243-68",
+      "name": "FB Target",
+      "diameter_in": 0.243,
+      "weight_gr": 68,
+      "bc": {
+        "g1": 0.255
+      },
+      "length_in": 0.833,
+      "twist_in": 13,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-high-bc-fb-varmint-243-69",
+      "name": "High BC FB Varmint",
+      "diameter_in": 0.243,
+      "weight_gr": 69,
+      "bc": {
+        "g1": 0.289
+      },
+      "length_in": 0.919,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-varmint-243-80",
+      "name": "FB Varmint",
+      "diameter_in": 0.243,
+      "weight_gr": 80,
+      "bc": {
+        "g1": 0.3
+      },
+      "length_in": 0.913,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-243-87",
+      "name": "VLD Hunting",
+      "diameter_in": 0.243,
+      "weight_gr": 87,
+      "bc": {
+        "g1": 0.427,
+        "g7": 0.219
+      },
+      "length_in": 1.042,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-high-bc-fb-varmint-243-88",
+      "name": "High BC FB Varmint",
+      "diameter_in": 0.243,
+      "weight_gr": 88,
+      "bc": {
+        "g1": 0.38
+      },
+      "length_in": 1.059,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-bt-target-243-90",
+      "name": "BT Target",
+      "diameter_in": 0.243,
+      "weight_gr": 90,
+      "bc": {
+        "g1": 0.409,
+        "g7": 0.21
+      },
+      "length_in": 1.05,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-classic-hybrid-hunter-243-95",
+      "name": "Classic Hybrid Hunter",
+      "diameter_in": 0.243,
+      "weight_gr": 95,
+      "bc": {
+        "g1": 0.434,
+        "g7": 0.223
+      },
+      "length_in": 1.069,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-243-95",
+      "name": "VLD Hunting",
+      "diameter_in": 0.243,
+      "weight_gr": 95,
+      "bc": {
+        "g1": 0.467,
+        "g7": 0.239
+      },
+      "length_in": 1.13,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-243-95",
+      "name": "VLD Target",
+      "diameter_in": 0.243,
+      "weight_gr": 95,
+      "bc": {
+        "g1": 0.467,
+        "g7": 0.24
+      },
+      "length_in": 1.13,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-bt-target-243-105",
+      "name": "BT Target",
+      "diameter_in": 0.243,
+      "weight_gr": 105,
+      "bc": {
+        "g1": 0.494,
+        "g7": 0.253
+      },
+      "length_in": 1.189,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-target-243-105",
+      "name": "Hybrid Target",
+      "diameter_in": 0.243,
+      "weight_gr": 105,
+      "bc": {
+        "g1": 0.536,
+        "g7": 0.275
+      },
+      "length_in": 1.256,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-243-105",
+      "name": "VLD Hunting",
+      "diameter_in": 0.243,
+      "weight_gr": 105,
+      "bc": {
+        "g1": 0.545,
+        "g7": 0.278
+      },
+      "length_in": 1.223,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-243-105",
+      "name": "VLD Target",
+      "diameter_in": 0.243,
+      "weight_gr": 105,
+      "bc": {
+        "g1": 0.517,
+        "g7": 0.265
+      },
+      "length_in": 1.222,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-bt-target-243-108",
+      "name": "BT Target",
+      "diameter_in": 0.243,
+      "weight_gr": 108,
+      "bc": {
+        "g1": 0.522,
+        "g7": 0.268
+      },
+      "length_in": 1.217,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-elite-hunter-243-108",
+      "name": "Elite Hunter",
+      "diameter_in": 0.243,
+      "weight_gr": 108,
+      "bc": {
+        "g1": 0.559,
+        "g7": 0.287
+      },
+      "length_in": 1.26,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-hybrid-target-243-109",
+      "name": "Long Range Hybrid Target",
+      "diameter_in": 0.243,
+      "weight_gr": 109,
+      "bc": {
+        "g1": 0.568,
+        "g7": 0.292
+      },
+      "length_in": 1.277,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-243-115",
+      "name": "VLD Hunting",
+      "diameter_in": 0.243,
+      "weight_gr": 115,
+      "bc": {
+        "g1": 0.568,
+        "g7": 0.291
+      },
+      "length_in": 1.348,
+      "twist_in": 7,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-243-115",
+      "name": "VLD Target",
+      "diameter_in": 0.243,
+      "weight_gr": 115,
+      "bc": {
+        "g1": 0.563,
+        "g7": 0.289
+      },
+      "length_in": 1.332,
+      "twist_in": 7,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-257-115",
+      "name": "VLD Hunting",
+      "diameter_in": 0.257,
+      "weight_gr": 115,
+      "bc": {
+        "g1": 0.483,
+        "g7": 0.247
+      },
+      "length_in": 1.188,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-elite-hunter-257-133",
+      "name": "Elite Hunter",
+      "diameter_in": 0.257,
+      "weight_gr": 133,
+      "bc": {
+        "g1": 0.613,
+        "g7": 0.315
+      },
+      "length_in": 1.407,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-hybrid-target-257-135",
+      "name": "Long Range Hybrid Target",
+      "diameter_in": 0.257,
+      "weight_gr": 135,
+      "bc": {
+        "g1": 0.65,
+        "g7": 0.334
+      },
+      "length_in": 1.416,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-bt-target-264-120",
+      "name": "BT Target",
+      "diameter_in": 0.264,
+      "weight_gr": 120,
+      "bc": {
+        "g1": 0.468,
+        "g7": 0.24
+      },
+      "length_in": 1.219,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-ar-hybrid-otm-tactical-264-130",
+      "name": "AR Hybrid OTM Tactical",
+      "diameter_in": 0.264,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.56,
+        "g7": 0.287
+      },
+      "length_in": 1.295,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-264-130",
+      "name": "VLD Hunting",
+      "diameter_in": 0.264,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.562,
+        "g7": 0.288
+      },
+      "length_in": 1.324,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-264-130",
+      "name": "VLD Target",
+      "diameter_in": 0.264,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.562,
+        "g7": 0.288
+      },
+      "length_in": 1.31,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-classic-hybrid-hunter-264-135",
+      "name": "Classic Hybrid Hunter",
+      "diameter_in": 0.264,
+      "weight_gr": 135,
+      "bc": {
+        "g1": 0.584,
+        "g7": 0.303
+      },
+      "length_in": 1.325,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-elite-hunter-264-140",
+      "name": "Elite Hunter",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.606,
+        "g7": 0.31
+      },
+      "length_in": 1.403,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-target-264-140",
+      "name": "Hybrid Target",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.607,
+        "g7": 0.311
+      },
+      "length_in": 1.407,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-bt-target-264-140",
+      "name": "Long Range BT Target",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.593,
+        "g7": 0.304
+      },
+      "length_in": 1.397,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-264-140",
+      "name": "VLD Hunting",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.6,
+        "g7": 0.307
+      },
+      "length_in": 1.39,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-264-140",
+      "name": "VLD Target",
+      "diameter_in": 0.264,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.593,
+        "g7": 0.304
+      },
+      "length_in": 1.387,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-hybrid-target-264-144",
+      "name": "Long Range Hybrid Target",
+      "diameter_in": 0.264,
+      "weight_gr": 144,
+      "bc": {
+        "g1": 0.655,
+        "g7": 0.336
+      },
+      "length_in": 1.413,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-hybrid-target-264-153_5",
+      "name": "Long Range Hybrid Target",
+      "diameter_in": 0.264,
+      "weight_gr": 153.5,
+      "bc": {
+        "g1": 0.694,
+        "g7": 0.356
+      },
+      "length_in": 1.514,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-eol-elite-hunter-264-156",
+      "name": "EOL Elite Hunter",
+      "diameter_in": 0.264,
+      "weight_gr": 156,
+      "bc": {
+        "g1": 0.679,
+        "g7": 0.347
+      },
+      "length_in": 1.512,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-classic-hybrid-hunter-277-130",
+      "name": "Classic Hybrid Hunter",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.49,
+        "g7": 0.251
+      },
+      "length_in": 1.21,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-277-130",
+      "name": "VLD Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 130,
+      "bc": {
+        "g1": 0.462,
+        "g7": 0.236
+      },
+      "length_in": 1.173,
+      "twist_in": 11,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-classic-hybrid-hunter-277-140",
+      "name": "Classic Hybrid Hunter",
+      "diameter_in": 0.277,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.528,
+        "g7": 0.271
+      },
+      "length_in": 1.274,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-277-140",
+      "name": "VLD Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.504,
+        "g7": 0.258
+      },
+      "length_in": 1.253,
+      "twist_in": 11,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-277-150",
+      "name": "VLD Hunting",
+      "diameter_in": 0.277,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.518,
+        "g7": 0.265
+      },
+      "length_in": 1.294,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-eol-elite-hunter-277-170",
+      "name": "EOL Elite Hunter",
+      "diameter_in": 0.277,
+      "weight_gr": 170,
+      "bc": {
+        "g1": 0.662,
+        "g7": 0.339
+      },
+      "length_in": 1.49,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-284-140",
+      "name": "VLD Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 140,
+      "bc": {
+        "g1": 0.5,
+        "g7": 0.256
+      },
+      "length_in": 1.267,
+      "twist_in": 11,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-classic-hunter-284-150",
+      "name": "Classic Hunter",
+      "diameter_in": 0.284,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.505,
+        "g7": 0.258
+      },
+      "length_in": 1.253,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-classic-hybrid-hunter-284-168",
+      "name": "Classic Hybrid Hunter",
+      "diameter_in": 0.284,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.566,
+        "g7": 0.29
+      },
+      "length_in": 1.372,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-284-168",
+      "name": "VLD Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.618,
+        "g7": 0.316
+      },
+      "length_in": 1.433,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-284-168",
+      "name": "VLD Target",
+      "diameter_in": 0.284,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.628,
+        "g7": 0.322
+      },
+      "length_in": 1.431,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-elite-hunter-284-175",
+      "name": "Elite Hunter",
+      "diameter_in": 0.284,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.656,
+        "g7": 0.336
+      },
+      "length_in": 1.502,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-target-284-180",
+      "name": "Hybrid Target",
+      "diameter_in": 0.284,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.68,
+        "g7": 0.349
+      },
+      "length_in": 1.527,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-284-180",
+      "name": "VLD Hunting",
+      "diameter_in": 0.284,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.673,
+        "g7": 0.345
+      },
+      "length_in": 1.506,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-284-180",
+      "name": "VLD Target",
+      "diameter_in": 0.284,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.683,
+        "g7": 0.35
+      },
+      "length_in": 1.52,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-f-open-hybrid-target-284-184",
+      "name": "F-Open Hybrid Target",
+      "diameter_in": 0.284,
+      "weight_gr": 184,
+      "bc": {
+        "g1": 0.695,
+        "g7": 0.356
+      },
+      "length_in": 1.575,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-hybrid-target-284-190",
+      "name": "Long Range Hybrid Target",
+      "diameter_in": 0.284,
+      "weight_gr": 190,
+      "bc": {
+        "g1": 0.751,
+        "g7": 0.384
+      },
+      "length_in": 1.601,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-eol-elite-hunter-284-195",
+      "name": "EOL Elite Hunter",
+      "diameter_in": 0.284,
+      "weight_gr": 195,
+      "bc": {
+        "g1": 0.755,
+        "g7": 0.387
+      },
+      "length_in": 1.648,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-target-308-115",
+      "name": "FB Target",
+      "diameter_in": 0.308,
+      "weight_gr": 115,
+      "bc": {
+        "g1": 0.289
+      },
+      "length_in": 0.94,
+      "twist_in": 19,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fb-target-308-150",
+      "name": "FB Target",
+      "diameter_in": 0.308,
+      "weight_gr": 150,
+      "bc": {
+        "g1": 0.393
+      },
+      "length_in": 1.155,
+      "twist_in": 15,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-target-308-155",
+      "name": "Hybrid Target",
+      "diameter_in": 0.308,
+      "weight_gr": 155,
+      "bc": {
+        "g1": 0.478,
+        "g7": 0.245
+      },
+      "length_in": 1.271,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-308-155",
+      "name": "VLD Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 155,
+      "bc": {
+        "g1": 0.464,
+        "g7": 0.238
+      },
+      "length_in": 1.223,
+      "twist_in": 14,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-fullbore-target-308-155_5",
+      "name": "FULLBORE Target",
+      "diameter_in": 0.308,
+      "weight_gr": 155.5,
+      "bc": {
+        "g1": 0.473,
+        "g7": 0.242
+      },
+      "length_in": 1.226,
+      "twist_in": 13,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-classic-hybrid-hunter-308-168",
+      "name": "Classic Hybrid Hunter",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.489,
+        "g7": 0.251
+      },
+      "length_in": 1.228,
+      "twist_in": 13,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-target-308-168",
+      "name": "Hybrid Target",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.515,
+        "g7": 0.264
+      },
+      "length_in": 1.287,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-308-168",
+      "name": "VLD Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.498,
+        "g7": 0.255
+      },
+      "length_in": 1.261,
+      "twist_in": 13,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-308-168",
+      "name": "VLD Target",
+      "diameter_in": 0.308,
+      "weight_gr": 168,
+      "bc": {
+        "g1": 0.507,
+        "g7": 0.26
+      },
+      "length_in": 1.251,
+      "twist_in": 13,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-bt-target-308-175",
+      "name": "Long Range BT Target",
+      "diameter_in": 0.308,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.512,
+        "g7": 0.262
+      },
+      "length_in": 1.314,
+      "twist_in": 13,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-otm-tactical-308-175",
+      "name": "OTM Tactical",
+      "diameter_in": 0.308,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.512,
+        "g7": 0.263
+      },
+      "length_in": 1.261,
+      "twist_in": 13,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-308-175",
+      "name": "VLD Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.518,
+        "g7": 0.265
+      },
+      "length_in": 1.328,
+      "twist_in": 13,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-308-175",
+      "name": "VLD Target",
+      "diameter_in": 0.308,
+      "weight_gr": 175,
+      "bc": {
+        "g1": 0.512,
+        "g7": 0.262
+      },
+      "length_in": 1.342,
+      "twist_in": 13,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-elite-hunter-308-180",
+      "name": "Elite Hunter",
+      "diameter_in": 0.308,
+      "weight_gr": 180,
+      "bc": {
+        "g1": 0.576,
+        "g7": 0.295
+      },
+      "length_in": 1.375,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-classic-hybrid-hunter-308-185",
+      "name": "Classic Hybrid Hunter",
+      "diameter_in": 0.308,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.533,
+        "g7": 0.273
+      },
+      "length_in": 1.314,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-target-308-185",
+      "name": "Hybrid Target",
+      "diameter_in": 0.308,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.576,
+        "g7": 0.295
+      },
+      "length_in": 1.418,
+      "twist_in": 11,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-juggernaut-otm-tactical-308-185",
+      "name": "Juggernaut OTM Tactical",
+      "diameter_in": 0.308,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.552,
+        "g7": 0.283
+      },
+      "length_in": 1.355,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-juggernaut-target-308-185",
+      "name": "Juggernaut Target",
+      "diameter_in": 0.308,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.555,
+        "g7": 0.284
+      },
+      "length_in": 1.344,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-308-185",
+      "name": "VLD Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.558,
+        "g7": 0.286
+      },
+      "length_in": 1.366,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-308-185",
+      "name": "VLD Target",
+      "diameter_in": 0.308,
+      "weight_gr": 185,
+      "bc": {
+        "g1": 0.543,
+        "g7": 0.278
+      },
+      "length_in": 1.383,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-308-190",
+      "name": "VLD Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 190,
+      "bc": {
+        "g1": 0.566,
+        "g7": 0.29
+      },
+      "length_in": 1.371,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-20x-hybrid-target-308-200",
+      "name": ".20X Hybrid Target",
+      "diameter_in": 0.308,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.64,
+        "g7": 0.328
+      },
+      "length_in": 1.508,
+      "twist_in": 11,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-target-308-200",
+      "name": "Hybrid Target",
+      "diameter_in": 0.308,
+      "weight_gr": 200,
+      "bc": {
+        "g1": 0.616,
+        "g7": 0.316
+      },
+      "length_in": 1.489,
+      "twist_in": 11,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-elite-hunter-308-205",
+      "name": "Elite Hunter",
+      "diameter_in": 0.308,
+      "weight_gr": 205,
+      "bc": {
+        "g1": 0.631,
+        "g7": 0.324
+      },
+      "length_in": 1.487,
+      "twist_in": 11,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-hybrid-target-308-208",
+      "name": "Long Range Hybrid Target",
+      "diameter_in": 0.308,
+      "weight_gr": 208,
+      "bc": {
+        "g1": 0.689,
+        "g7": 0.354
+      },
+      "length_in": 1.575,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-hunting-308-210",
+      "name": "VLD Hunting",
+      "diameter_in": 0.308,
+      "weight_gr": 210,
+      "bc": {
+        "g1": 0.625,
+        "g7": 0.32
+      },
+      "length_in": 1.47,
+      "twist_in": 11,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-vld-target-308-210",
+      "name": "VLD Target",
+      "diameter_in": 0.308,
+      "weight_gr": 210,
+      "bc": {
+        "g1": 0.621,
+        "g7": 0.318
+      },
+      "length_in": 1.46,
+      "twist_in": 11,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-target-308-215",
+      "name": "Hybrid Target",
+      "diameter_in": 0.308,
+      "weight_gr": 215,
+      "bc": {
+        "g1": 0.691,
+        "g7": 0.354
+      },
+      "length_in": 1.598,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-hybrid-target-308-220",
+      "name": "Long Range Hybrid Target",
+      "diameter_in": 0.308,
+      "weight_gr": 220,
+      "bc": {
+        "g1": 0.717,
+        "g7": 0.369
+      },
+      "length_in": 1.597,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-otm-tactical-308-230",
+      "name": "Hybrid OTM Tactical",
+      "diameter_in": 0.308,
+      "weight_gr": 230,
+      "bc": {
+        "g1": 0.71,
+        "g7": 0.364
+      },
+      "length_in": 1.608,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-target-308-230",
+      "name": "Hybrid Target",
+      "diameter_in": 0.308,
+      "weight_gr": 230,
+      "bc": {
+        "g1": 0.717,
+        "g7": 0.368
+      },
+      "length_in": 1.668,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-eol-elite-hunter-308-245",
+      "name": "EOL Elite Hunter",
+      "diameter_in": 0.308,
+      "weight_gr": 245,
+      "bc": {
+        "g1": 0.807,
+        "g7": 0.413
+      },
+      "length_in": 1.775,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-long-range-hybrid-target-308-245",
+      "name": "Long Range Hybrid Target",
+      "diameter_in": 0.308,
+      "weight_gr": 245,
+      "bc": {
+        "g1": 0.846,
+        "g7": 0.433
+      },
+      "length_in": 1.775,
+      "twist_in": 9,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-elite-hunter-338-250",
+      "name": "Elite Hunter",
+      "diameter_in": 0.338,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.685,
+        "g7": 0.351
+      },
+      "length_in": 1.627,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-otm-tactical-338-250",
+      "name": "Hybrid OTM Tactical",
+      "diameter_in": 0.338,
+      "weight_gr": 250,
+      "bc": {
+        "g1": 0.682,
+        "g7": 0.349
+      },
+      "length_in": 1.635,
+      "twist_in": 12,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-elite-hunter-338-300",
+      "name": "Elite Hunter",
+      "diameter_in": 0.338,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.814,
+        "g7": 0.417
+      },
+      "length_in": 1.816,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-otm-tactical-338-300",
+      "name": "Hybrid OTM Tactical",
+      "diameter_in": 0.338,
+      "weight_gr": 300,
+      "bc": {
+        "g1": 0.822,
+        "g7": 0.421
+      },
+      "length_in": 1.819,
+      "twist_in": 10,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-elr-match-solid-375-379",
+      "name": "ELR Match Solid",
+      "diameter_in": 0.375,
+      "weight_gr": 379,
+      "bc": {
+        "g1": 0.951,
+        "g7": 0.487
+      },
+      "length_in": 2.236,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-elr-match-solid-375-407",
+      "name": "ELR Match Solid",
+      "diameter_in": 0.375,
+      "weight_gr": 407,
+      "bc": {
+        "g1": 1.022,
+        "g7": 0.523
+      },
+      "length_in": 2.347,
+      "twist_in": 8,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    },
+    {
+      "id": "berger-hybrid-target-375-410",
+      "name": "Hybrid Target",
+      "diameter_in": 0.375,
+      "weight_gr": 410,
+      "bc": {
+        "g1": 0.928,
+        "g7": 0.475
+      },
+      "length_in": 2.037,
+      "twist_in": 11.5,
+      "source": {
+        "type": "catalogue",
+        "ref": "Berger Bullets catalogue 2024"
+      }
+    }
+  ]
+}
