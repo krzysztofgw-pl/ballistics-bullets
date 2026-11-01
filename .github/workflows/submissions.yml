@@ -24,14 +24,14 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - id: auth
-        uses: google-github-actions/auth@v2
+      # The key signs its own token locally; asking Google for one (token_format)
+      # would need the IAM Credentials API enabled in the project.
+      - uses: google-github-actions/auth@v3
         with:
           credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-          token_format: access_token
+      - uses: google-github-actions/setup-gcloud@v3
       - name: Open pull requests
         env:
-          FIRESTORE_TOKEN: ${{ steps.auth.outputs.access_token }}
           FIREBASE_PROJECT: ballistics-kgw
           GH_TOKEN: ${{ github.token }}
-        run: python3 tools/import_submissions.py
+        run: FIRESTORE_TOKEN="$(gcloud auth print-access-token)" python3 tools/import_submissions.py
