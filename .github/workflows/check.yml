@@ -2,6 +2,8 @@ name: Check
 
 on:
   pull_request:
+  # Started by the Submissions workflow for the pull requests it opens.
+  workflow_dispatch:
   push:
     branches: [main]
 

@@ -1,0 +1,37 @@
+name: Submissions
+
+# Turns bullet suggestions sent from the app into pull requests, once a day.
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+concurrency:
+  group: submissions
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - id: auth
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          token_format: access_token
+      - name: Open pull requests
+        env:
+          FIRESTORE_TOKEN: ${{ steps.auth.outputs.access_token }}
+          FIREBASE_PROJECT: ballistics-kgw
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tools/import_submissions.py

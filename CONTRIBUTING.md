@@ -79,3 +79,19 @@ The check fails on broken files, missing fields, numbers outside physical limits
 duplicates. It warns about numbers that are possible but unusual: a G1/G7 ratio outside
 1.6–2.4, a G7 that does not fit the bullet's sectional density, or a diameter no other bullet
 has. Compare those with the source before merging.
+
+## Suggestions from the app
+
+The *Submissions* workflow runs daily (and on demand from the Actions tab). It reads new
+suggestions from the app's Firestore queue, applies each to its own branch
+`submission/<id>`, runs the validator and opens a pull request. Invalid suggestions get no
+pull request. A suggestion for an existing bullet (same id, or same maker, name, diameter and
+weight) becomes a correction that keeps the bullet's id and any optional fields it leaves out.
+
+Pull requests show the submitter only as a hashed account id. To stop someone sending
+suggestions, create the Firestore document `blocked/<uid>` (the uid is in the submission
+document named in the pull request).
+
+The workflow needs the repository secret `FIREBASE_SERVICE_ACCOUNT` (a service account key
+of the Firebase project, JSON) and *Settings → Actions → General → Allow GitHub Actions to
+create and approve pull requests*.
