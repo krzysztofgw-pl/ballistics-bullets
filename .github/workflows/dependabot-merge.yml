@@ -1,0 +1,51 @@
+name: Dependabot merge
+
+# Merges Dependabot pull requests (GitHub Actions version bumps) once the
+# Check workflow is green on them. Bullet submissions and every other pull
+# request still wait for a maintainer's review.
+#
+# main requires a code owner's review, so the "GitHub Actions" app is a
+# bypass actor of the main ruleset in "pull requests only" mode. This
+# workflow is the only one that merges.
+on:
+  workflow_run:
+    workflows: [Check]
+    types: [completed]
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+jobs:
+  merge:
+    if: >-
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.event == 'pull_request' &&
+      github.event.workflow_run.actor.login == 'dependabot[bot]' &&
+      startsWith(github.event.workflow_run.head_branch, 'dependabot/')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+      HEAD_BRANCH: ${{ github.event.workflow_run.head_branch }}
+    steps:
+      - name: Merge the pull request
+        run: |
+          pr=$(gh pr list --head "$HEAD_BRANCH" --state open --json number,author,headRefOid \
+            --jq ".[] | select((.author.login == \"app/dependabot\" or .author.login == \"dependabot[bot]\") and .headRefOid == \"$HEAD_SHA\") | .number")
+          if [ -z "$pr" ]; then
+            echo "No open Dependabot pull request at $HEAD_SHA; nothing to do."
+            exit 0
+          fi
+          # Only Dependabot's own commits: a maintainer's push stops automatic merging.
+          others=$(gh api "repos/$GH_REPO/pulls/$pr/commits" --jq '[.[] | select(.author.login != "dependabot[bot]")] | length')
+          if [ "$others" != "0" ]; then
+            echo "Pull request #$pr has commits by others; leaving it for review."
+            exit 0
+          fi
+          gh pr merge "$pr" --squash --match-head-commit "$HEAD_SHA"
+      # A merge made with the workflow token does not start push workflows.
+      - name: Publish
+        run: gh workflow run publish.yml --ref main

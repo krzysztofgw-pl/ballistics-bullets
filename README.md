@@ -35,7 +35,8 @@ format-1 readers cannot handle will be published under `v2/`, and `v1/` keeps wo
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). In short: open a pull request that edits a file in
 `bullets/` and says where the numbers come from, or suggest a bullet from inside the app.
-Every change is reviewed before it is published.
+Every change to the data is reviewed before it is published. Dependabot updates of the
+GitHub Actions used here are merged automatically once the checks pass.
 
 ## Licence
 
